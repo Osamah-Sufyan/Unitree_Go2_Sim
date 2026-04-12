@@ -305,17 +305,4 @@ Check:
 
 Use WSL2 Ubuntu for development and Linux-based setup steps. For demanding Isaac rendering and GPU workflows, native Ubuntu is often the more reliable choice.
 
-## Suggested README Structure
 
-If you want to turn this into a public GitHub README, use sections like:
-
-1. Overview
-2. Supported platforms
-3. Windows and WSL note
-4. Prerequisites
-5. MuJoCo setup
-6. Isaac setup
-7. Training
-8. Playback
-9. Validation
-10. Hardware safety
