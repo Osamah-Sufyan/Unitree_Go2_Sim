@@ -1,0 +1,7 @@
+path: /Users/osamahsufyan/Documents/tictacto/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: board
+  1: X
+  2: O
